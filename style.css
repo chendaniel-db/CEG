@@ -8186,6 +8186,10 @@ h1, h2, h3, h4, h5,
   font-size: 35px;
   color: #fff; }
 
+  .a{
+    color: #fff; }
+
+
 .img {
   background-size: cover;
   background-repeat: no-repeat;
