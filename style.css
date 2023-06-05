@@ -8330,7 +8330,7 @@ textarea.form-control {
   border-radius: 40px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  font-size: 15px;
+  font-size: 20px;
   text-transform: uppercase; }
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
